@@ -1,4 +1,4 @@
-[Medium article](https://medium.com/@edgar.gutierrez.gzz/padr%C3%B3n-de-taxis-de-nuevo-le%C3%B3n-121b12bf3d89#.ck9ypuqca) (spanish).
+You can read the article [here](https://medium.com/@edgar.gutierrez.gzz/padr%C3%B3n-de-taxis-de-nuevo-le%C3%B3n-121b12bf3d89#.ck9ypuqca) (spanish).
 
 ### Data
 
