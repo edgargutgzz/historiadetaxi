@@ -1,6 +1,4 @@
-# El Padrón de Taxis de Nuevo León es un Desmadre
-
-This repository is a sandbox for a [Medium article](https://medium.com/@edgar.gutierrez.gzz/padr%C3%B3n-de-taxis-de-nuevo-le%C3%B3n-121b12bf3d89#.ck9ypuqca) (spanish).
+[Medium article](https://medium.com/@edgar.gutierrez.gzz/padr%C3%B3n-de-taxis-de-nuevo-le%C3%B3n-121b12bf3d89#.ck9ypuqca) (spanish).
 
 ## Codebook
 
