@@ -2,12 +2,11 @@
 
 ### Data
 
-This folder contains the raw data files obtained from the official
-website of each state agency. 
+This folder contains both state's taxi register data.
 
 ### Codebook
 
-This file contains the process used to: 
-+ Upload and clean the data mentioned above. 
-+ Reproduce graphs seen on article.
+This file shows the process used to: 
++ Upload and clean each state's taxi register data. 
++ Reproduce graphs seen on article. 
 
