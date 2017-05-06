@@ -7,5 +7,5 @@ Contiene el padrón de taxis de Nuevo León y Jalisco.
 ### Padrón de Taxis
 
 Muestra el proceso utilizado para: 
-+ La limpieza y subida del padrón de taxis de ambos estados.
++ La limpieza del padrón de taxis de ambos estados.
 + Reproducir las gráficas mostradas en el artículo. 
