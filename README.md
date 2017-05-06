@@ -1,12 +1,11 @@
-You can read the article [here](https://medium.com/@edgar.gutierrez.gzz/padr%C3%B3n-de-taxis-de-nuevo-le%C3%B3n-121b12bf3d89#.ck9ypuqca) (spanish).
+Puedes leer el artículo [aquí.](https://medium.com/@edgar.gutierrez.gzz/padr%C3%B3n-de-taxis-de-nuevo-le%C3%B3n-121b12bf3d89#.ck9ypuqca)
 
 ### Data
 
-This folder contains both state's taxi register data.
+Contiene el padrón de taxis de Nuevo León y Jalisco.
 
-### Codebook
+### Padrón de Taxis
 
-This file shows the process used to: 
-+ Upload and clean each state's taxi register data. 
-+ Reproduce graphs seen on article. 
-
+Muestra el proceso utilizado para: 
++ La limpieza y subida del padrón de taxis de ambos estados.
++ Reproducir las gráficas mostradas en el artículo. 
